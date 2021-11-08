@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1528px" height="1364px" viewBox="0 0 1528 1364" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group</title>
+    <g id="Linux初始化过程" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group">
+            <rect id="Rectangle" stroke="#000102" fill="#F1FAEE" x="1.5" y="1.5" width="141" height="48"></rect>
+            <path id="Line" d="M72,49 L72,86 L76,86 L71.5,95 L67,86 L71,86 L71,49 L72,49 Z" fill="#000102" fill-rule="nonzero"></path>
+            <path id="Line" d="M72,144 L72,181 L76,181 L71.5,190 L67,181 L71,181 L71,144 L72,144 Z" fill="#000102" fill-rule="nonzero"></path>
+            <path id="Line" d="M72,238 L72,275 L76,275 L71.5,284 L67,275 L71,275 L71,238 L72,238 Z" fill="#000102" fill-rule="nonzero"></path>
+            <path id="Line" d="M73,332 L73,369 L77,369 L72.5,378 L68,369 L72,369 L72,332 L73,332 Z" fill="#000102" fill-rule="nonzero"></path>
+            <path id="Line" d="M684,45 L684,82 L688,82 L683.5,91 L679,82 L683,82 L683,45 L684,45 Z" fill="#000102" fill-rule="nonzero"></path>
+            <path id="Line" d="M683,135 L683,172 L687,172 L682.5,181 L678,172 L682,172 L682,135 L683,135 Z" fill="#000102" fill-rule="nonzero"></path>
+            <path id="Line" d="M1183.47055,158.056079 L1192.49999,162.496707 L1183.52982,167.055884 L1183.503,163.056 L1183.4936,163.056035 L1179.49369,163.08238 L1178.9937,163.085673 L1178.98711,162.085694 L1179.4871,162.082401 L1183.48701,162.056057 L1183.496,162.056 L1183.47055,158.056079 Z M743.996544,164.950616 L744.00313,165.950594 L743.503141,165.953887 L739.503228,165.980231 L739.003239,165.983524 L738.996653,164.983546 L739.496642,164.980253 L743.496555,164.953909 L743.996544,164.950616 Z M751.996371,164.897927 L752.002957,165.897906 L751.502968,165.901199 L747.503054,165.927543 L747.003065,165.930836 L746.996479,164.930858 L747.496468,164.927565 L751.496382,164.90122 L751.996371,164.897927 Z M759.996197,164.845239 L760.002783,165.845218 L759.502794,165.848511 L755.502881,165.874855 L755.002892,165.878148 L754.996306,164.878169 L755.496295,164.874876 L759.496208,164.848532 L759.996197,164.845239 Z M767.996024,164.792551 L768.00261,165.792529 L767.502621,165.795822 L763.502707,165.822166 L763.002718,165.825459 L762.996132,164.825481 L763.496121,164.822188 L767.496035,164.795844 L767.996024,164.792551 Z M775.99585,164.739863 L776.002436,165.739841 L775.502447,165.743134 L771.502534,165.769478 L771.002545,165.772771 L770.995959,164.772793 L771.495948,164.7695 L775.495861,164.743156 L775.99585,164.739863 Z M783.995677,164.687175 L784.002263,165.687153 L783.502274,165.690446 L779.50236,165.71679 L779.002371,165.720083 L778.995785,164.720105 L779.495774,164.716812 L783.495688,164.690468 L783.995677,164.687175 Z M791.995503,164.634486 L792.002089,165.634465 L791.5021,165.637758 L787.502187,165.664102 L787.002198,165.667395 L786.995612,164.667417 L787.495601,164.664124 L791.495514,164.637779 L791.995503,164.634486 Z M799.99533,164.581798 L800.001916,165.581776 L799.501927,165.58507 L795.502013,165.611414 L795.002024,165.614707 L794.995438,164.614728 L795.495427,164.611435 L799.495341,164.585091 L799.99533,164.581798 Z M807.995156,164.52911 L808.001742,165.529088 L807.501753,165.532381 L803.50184,165.558725 L803.001851,165.562018 L802.995265,164.56204 L803.495254,164.558747 L807.495167,164.532403 L807.995156,164.52911 Z M815.994983,164.476422 L816.001569,165.4764 L815.50158,165.479693 L811.501666,165.506037 L811.001677,165.50933 L810.995091,164.509352 L811.49508,164.506059 L815.494994,164.479715 L815.994983,164.476422 Z M823.994809,164.423734 L824.001395,165.423712 L823.501406,165.427005 L819.501493,165.453349 L819.001504,165.456642 L818.994918,164.456664 L819.494907,164.453371 L823.49482,164.427027 L823.994809,164.423734 Z M831.994636,164.371045 L832.001222,165.371024 L831.501233,165.374317 L827.501319,165.400661 L827.00133,165.403954 L826.994744,164.403975 L827.494733,164.400682 L831.494647,164.374338 L831.994636,164.371045 Z M839.994462,164.318357 L840.001048,165.318335 L839.501059,165.321628 L835.501146,165.347973 L835.001157,165.351266 L834.994571,164.351287 L835.49456,164.347994 L839.494473,164.32165 L839.994462,164.318357 Z M847.994289,164.265669 L848.000875,165.265647 L847.500886,165.26894 L843.500972,165.295284 L843.000983,165.298577 L842.994397,164.298599 L843.494386,164.295306 L847.4943,164.268962 L847.994289,164.265669 Z M855.994115,164.212981 L856.000701,165.212959 L855.500712,165.216252 L851.500799,165.242596 L851.00081,165.245889 L850.994224,164.245911 L851.494213,164.242618 L855.494126,164.216274 L855.994115,164.212981 Z M863.993942,164.160293 L864.000528,165.160271 L863.500539,165.163564 L859.500625,165.189908 L859.000636,165.193201 L858.99405,164.193223 L859.494039,164.18993 L863.493953,164.163586 L863.993942,164.160293 Z M871.993768,164.107604 L872.000354,165.107583 L871.500365,165.110876 L867.500452,165.13722 L867.000463,165.140513 L866.993877,164.140534 L867.493866,164.137241 L871.493779,164.110897 L871.993768,164.107604 Z M879.993595,164.054916 L880.000181,165.054894 L879.500192,165.058187 L875.500278,165.084532 L875.000289,165.087825 L874.993703,164.087846 L875.493692,164.084553 L879.493606,164.058209 L879.993595,164.054916 Z M887.993421,164.002228 L888.000007,165.002206 L887.500018,165.005499 L883.500105,165.031843 L883.000116,165.035136 L882.99353,164.035158 L883.493519,164.031865 L887.493432,164.005521 L887.993421,164.002228 Z M737,160 L737,165 L736,165 L736,160 L737,160 Z M895.993248,163.94954 L895.999834,164.949518 L895.499845,164.952811 L891.499931,164.979155 L890.999942,164.982448 L890.993356,163.98247 L891.493345,163.979177 L895.493259,163.952833 L895.993248,163.94954 Z M903.993074,163.896851 L903.99966,164.89683 L903.499671,164.900123 L899.499758,164.926467 L898.999769,164.92976 L898.993183,163.929782 L899.493172,163.926489 L903.493085,163.900144 L903.993074,163.896851 Z M911.992901,163.844163 L911.999487,164.844142 L911.499498,164.847435 L907.499584,164.873779 L906.999595,164.877072 L906.993009,163.877093 L907.492998,163.8738 L911.492912,163.847456 L911.992901,163.844163 Z M919.992727,163.791475 L919.999313,164.791453 L919.499324,164.794746 L915.499411,164.82109 L914.999422,164.824383 L914.992836,163.824405 L915.492825,163.821112 L919.492738,163.794768 L919.992727,163.791475 Z M927.992554,163.738787 L927.99914,164.738765 L927.499151,164.742058 L923.499237,164.768402 L922.999248,164.771695 L922.992662,163.771717 L923.492651,163.768424 L927.492565,163.74208 L927.992554,163.738787 Z M935.99238,163.686099 L935.998966,164.686077 L935.498977,164.68937 L931.499064,164.715714 L930.999075,164.719007 L930.992489,163.719029 L931.492478,163.715736 L935.492391,163.689392 L935.99238,163.686099 Z M943.992207,163.63341 L943.998793,164.633389 L943.498804,164.636682 L939.49889,164.663026 L938.998901,164.666319 L938.992315,163.666341 L939.492304,163.663048 L943.492218,163.636703 L943.992207,163.63341 Z M951.992033,163.580722 L951.998619,164.580701 L951.49863,164.583994 L947.498717,164.610338 L946.998728,164.613631 L946.992142,163.613652 L947.492131,163.610359 L951.492044,163.584015 L951.992033,163.580722 Z M959.99186,163.528034 L959.998446,164.528012 L959.498457,164.531305 L955.498543,164.557649 L954.998554,164.560942 L954.991968,163.560964 L955.491957,163.557671 L959.491871,163.531327 L959.99186,163.528034 Z M967.991686,163.475346 L967.998272,164.475324 L967.498283,164.478617 L963.49837,164.504961 L962.998381,164.508254 L962.991795,163.508276 L963.491784,163.504983 L967.491697,163.478639 L967.991686,163.475346 Z M975.991513,163.422658 L975.998099,164.422636 L975.49811,164.425929 L971.498196,164.452273 L970.998207,164.455566 L970.991621,163.455588 L971.49161,163.452295 L975.491524,163.425951 L975.991513,163.422658 Z M983.991339,163.369969 L983.997925,164.369948 L983.497936,164.373241 L979.498023,164.399585 L978.998034,164.402878 L978.991448,163.402899 L979.491437,163.399606 L983.49135,163.373262 L983.991339,163.369969 Z M991.991166,163.317281 L991.997752,164.317259 L991.497763,164.320552 L987.497849,164.346897 L986.99786,164.35019 L986.991274,163.350211 L987.491263,163.346918 L991.491177,163.320574 L991.991166,163.317281 Z M999.990992,163.264593 L999.997578,164.264571 L999.497589,164.267864 L995.497676,164.294208 L994.997687,164.297501 L994.991101,163.297523 L995.49109,163.29423 L999.491003,163.267886 L999.990992,163.264593 Z M1007.99082,163.211905 L1007.9974,164.211883 L1007.49742,164.215176 L1003.4975,164.24152 L1002.99751,164.244813 L1002.99093,163.244835 L1003.49092,163.241542 L1007.49083,163.215198 L1007.99082,163.211905 Z M1015.99065,163.159217 L1015.99723,164.159195 L1015.49724,164.162488 L1011.49733,164.188832 L1010.99734,164.192125 L1010.99075,163.192147 L1011.49074,163.188854 L1015.49066,163.16251 L1015.99065,163.159217 Z M1023.99047,163.106528 L1023.99706,164.106507 L1023.49707,164.1098 L1019.49716,164.136144 L1018.99717,164.139437 L1018.99058,163.139458 L1019.49057,163.136165 L1023.49048,163.109821 L1023.99047,163.106528 Z M1031.9903,163.05384 L1031.99688,164.053818 L1031.4969,164.057111 L1027.49698,164.083456 L1026.99699,164.086749 L1026.99041,163.08677 L1027.4904,163.083477 L1031.49031,163.057133 L1031.9903,163.05384 Z M1039.99012,163.001152 L1039.99671,164.00113 L1039.49672,164.004423 L1035.49681,164.030767 L1034.99682,164.03406 L1034.99023,163.034082 L1035.49022,163.030789 L1039.49014,163.004445 L1039.99012,163.001152 Z M1047.98995,162.948464 L1047.99654,163.948442 L1047.49655,163.951735 L1043.49663,163.978079 L1042.99665,163.981372 L1042.99006,162.981394 L1043.49005,162.978101 L1047.48996,162.951757 L1047.98995,162.948464 Z M1055.98978,162.895775 L1055.99636,163.895754 L1055.49637,163.899047 L1051.49646,163.925391 L1050.99647,163.928684 L1050.98989,162.928706 L1051.48988,162.925413 L1055.48979,162.899068 L1055.98978,162.895775 Z M1063.9896,162.843087 L1063.99619,163.843066 L1063.4962,163.846359 L1059.49629,163.872703 L1058.9963,163.875996 L1058.98971,162.876017 L1059.4897,162.872724 L1063.48961,162.84638 L1063.9896,162.843087 Z M1071.98943,162.790399 L1071.99602,163.790377 L1071.49603,163.79367 L1067.49611,163.820014 L1066.99613,163.823307 L1066.98954,162.823329 L1067.48953,162.820036 L1071.48944,162.793692 L1071.98943,162.790399 Z M1079.98926,162.737711 L1079.99584,163.737689 L1079.49585,163.740982 L1075.49594,163.767326 L1074.99595,163.770619 L1074.98937,162.770641 L1075.48935,162.767348 L1079.48927,162.741004 L1079.98926,162.737711 Z M1087.98908,162.685023 L1087.99567,163.685001 L1087.49568,163.688294 L1083.49577,163.714638 L1082.99578,163.717931 L1082.98919,162.717953 L1083.48918,162.71466 L1087.48909,162.688316 L1087.98908,162.685023 Z M1095.98891,162.632334 L1095.9955,163.632313 L1095.49551,163.635606 L1091.49559,163.66195 L1090.9956,163.665243 L1090.98902,162.665265 L1091.48901,162.661972 L1095.48892,162.635627 L1095.98891,162.632334 Z M1103.98874,162.579646 L1103.99532,163.579625 L1103.49533,163.582918 L1099.49542,163.609262 L1098.99543,163.612555 L1098.98885,162.612576 L1099.48883,162.609283 L1103.48875,162.582939 L1103.98874,162.579646 Z M1111.98856,162.526958 L1111.99515,163.526936 L1111.49516,163.530229 L1107.49525,163.556573 L1106.99526,163.559866 L1106.98867,162.559888 L1107.48866,162.556595 L1111.48857,162.530251 L1111.98856,162.526958 Z M1119.98839,162.47427 L1119.99498,163.474248 L1119.49499,163.477541 L1115.49507,163.503885 L1114.99508,163.507178 L1114.9885,162.5072 L1115.48849,162.503907 L1119.4884,162.477563 L1119.98839,162.47427 Z M1127.98822,162.421582 L1127.9948,163.42156 L1127.49481,163.424853 L1123.4949,163.451197 L1122.99491,163.45449 L1122.98832,162.454512 L1123.48831,162.451219 L1127.48823,162.424875 L1127.98822,162.421582 Z M1135.98804,162.368893 L1135.99463,163.368872 L1135.49464,163.372165 L1131.49473,163.398509 L1130.99474,163.401802 L1130.98815,162.401824 L1131.48814,162.39853 L1135.48805,162.372186 L1135.98804,162.368893 Z M1143.98787,162.316205 L1143.99446,163.316183 L1143.49447,163.319476 L1139.49455,163.345821 L1138.99456,163.349114 L1138.98798,162.349135 L1139.48797,162.345842 L1143.48788,162.319498 L1143.98787,162.316205 Z M1151.9877,162.263517 L1151.99428,163.263495 L1151.49429,163.266788 L1147.49438,163.293132 L1146.99439,163.296425 L1146.9878,162.296447 L1147.48779,162.293154 L1151.48771,162.26681 L1151.9877,162.263517 Z M1159.98752,162.210829 L1159.99411,163.210807 L1159.49412,163.2141 L1155.49421,163.240444 L1154.99422,163.243737 L1154.98763,162.243759 L1155.48762,162.240466 L1159.48753,162.214122 L1159.98752,162.210829 Z M1167.98735,162.158141 L1167.99393,163.158119 L1167.49395,163.161412 L1165.24879,163.176199 L1163.49403,163.187756 L1162.99404,163.191049 L1162.98746,162.191071 L1163.48745,162.187778 L1165.24221,162.176221 L1167.48736,162.161434 L1167.98735,162.158141 Z M1175.98718,162.105452 L1175.99376,163.105431 L1175.49377,163.108724 L1171.49386,163.135068 L1170.99387,163.138361 L1170.98728,162.138382 L1171.48727,162.135089 L1175.48719,162.108745 L1175.98718,162.105452 Z M737,152 L737,157 L736,157 L736,152 L737,152 Z M737,144 L737,149 L736,149 L736,144 L737,144 Z M737,136 L737,141 L736,141 L736,136 L737,136 Z" fill="#000102" fill-rule="nonzero"></path>
+            <path id="Line" d="M71,426 L71,463 L75,463 L70.5,472 L66,463 L70,463 L70,426 L71,426 Z" fill="#000102" fill-rule="nonzero"></path>
+            <path id="Line" d="M603.5,20 L612.5,24.5 L603.5,29 L603.5,25 L482.387,25 L487.527322,571.995302 L487.532104,572.504269 L487.023132,572.499982 L71.4957886,568.999982 L71,568.995806 L71,523 L72,523 L72,568.004 L486.522,571.496 L481.382835,24.504698 L481.378092,24 L603.5,24 L603.5,20 Z" fill="#000102" fill-rule="nonzero"></path>
+            <text id="CPU加电" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000102">
+                <tspan x="47" y="30">CPU加电</tspan>
+            </text>
+            <rect id="Rectangle" stroke="#000102" fill="#F1FAEE" x="1.5" y="95.5" width="141" height="48"></rect>
+            <rect id="Rectangle" stroke="#000102" fill="#F1FAEE" x="1.5" y="95.5" width="141" height="48"></rect>
+            <text id="寄存器指定固定地址" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000102">
+                <tspan x="18" y="124">寄存器指定固定地址</tspan>
+            </text>
+            <rect id="Rectangle" stroke="#000102" fill="#F1FAEE" x="1.5" y="189.5" width="141" height="48"></rect>
+            <rect id="Rectangle" stroke="#000102" fill="#F1FAEE" x="1.5" y="189.5" width="141" height="48"></rect>
+            <rect id="Rectangle" stroke="#000102" fill="#F1FAEE" x="0.5" y="283.5" width="141" height="48"></rect>
+            <rect id="Rectangle" stroke="#000102" fill="#F1FAEE" x="0.5" y="378.5" width="141" height="48"></rect>
+            <rect id="Rectangle" stroke="#000102" fill="#F1FAEE" x="1.5" y="474.5" width="141" height="48"></rect>
+            <rect id="Rectangle" stroke="#000102" fill="#457B9D" x="612.5" y="0.5" width="141" height="48"></rect>
+            <text id="读取BIOS的ROM指令" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000102">
+                <tspan x="18" y="218">读取BIOS的ROM指令</tspan>
+            </text>
+            <text id="初始化硬件" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000102">
+                <tspan x="42" y="312">初始化硬件</tspan>
+            </text>
+            <text id="加载引导设备" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000102">
+                <tspan x="43" y="407">加载引导设备</tspan>
+            </text>
+            <text id="加载GRUB" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000102">
+                <tspan x="39" y="503">加载GRUB</tspan>
+            </text>
+            <text id="加载BOOT.IMG" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#FFFCFC">
+                <tspan x="641" y="30">加载BOOT.IMG</tspan>
+            </text>
+            <rect id="Rectangle" stroke="#000102" fill="#457B9D" x="612.5" y="88.5" width="141" height="48"></rect>
+            <rect id="Rectangle" stroke="#000102" fill="#457B9D" x="612.5" y="180.5" width="141" height="48"></rect>
+            <text id="加载vmlinuz" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#FFFCFC">
+                <tspan x="650" y="208">加载vmlinuz</tspan>
+            </text>
+            <path id="Line" d="M683,229 L683,266 L687,266 L682.5,275 L678,266 L682,266 L682,229 L683,229 Z" fill="#000102" fill-rule="nonzero"></path>
+            <path id="Line" d="M683,315 L683,352 L687,352 L682.5,361 L678,352 L682,352 L682,315 L683,315 Z" fill="#000102" fill-rule="nonzero"></path>
+            <rect id="Rectangle" stroke="#000102" fill="#457B9D" x="612.5" y="274.5" width="141" height="48"></rect>
+            <text id="调用setup.bin" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#FFFCFC">
+                <tspan x="645" y="303">调用setup.bin</tspan>
+            </text>
+            <rect id="Rectangle" stroke="#000102" fill="#457B9D" x="613.5" y="358.5" width="141" height="48"></rect>
+            <text id="调用main函数" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#FFFCFC">
+                <tspan x="646" y="387">调用main函数</tspan>
+            </text>
+            <path id="Line" d="M683,404 L683,441 L687,441 L682.5,450 L678,441 L682,441 L682,404 L683,404 Z" fill="#000102" fill-rule="nonzero"></path>
+            <rect id="Rectangle" stroke="#000102" fill="#457B9D" x="613.5" y="447.5" width="141" height="48"></rect>
+            <text id="调用main函数" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#FFFCFC">
+                <tspan x="646" y="476">调用main函数</tspan>
+            </text>
+            <path id="Line" d="M683,496 L683,533 L687,533 L682.5,542 L678,533 L682,533 L682,496 L683,496 Z" fill="#000102" fill-rule="nonzero"></path>
+            <rect id="Rectangle" stroke="#000102" fill="#457B9D" x="613.5" y="539.5" width="141" height="48"></rect>
+            <text id="进入vmlinux.bin" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#FFFCFC">
+                <tspan x="646" y="568">进入vmlinux.bin</tspan>
+            </text>
+            <path id="Line" d="M683,588 L683,625 L687,625 L682.5,634 L678,625 L682,625 L682,588 L683,588 Z" fill="#000102" fill-rule="nonzero"></path>
+            <path id="Line" d="M683,680 L683,717 L687,717 L682.5,726 L678,717 L682,717 L682,680 L683,680 Z" fill="#000102" fill-rule="nonzero"></path>
+            <rect id="Rectangle" stroke="#000102" fill="#457B9D" x="613.5" y="631.5" width="141" height="48"></rect>
+            <text id="调用start32()" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#FFFCFC">
+                <tspan x="646" y="660">调用start32()</tspan>
+            </text>
+            <rect id="Rectangle" stroke="#000102" fill="#457B9D" x="611.5" y="726.5" width="141" height="48"></rect>
+            <text id="调用startup_64()" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#FFFCFC">
+                <tspan x="644" y="755">调用startup_64()</tspan>
+            </text>
+            <path id="Line" d="M683,680 L683,717 L687,717 L682.5,726 L678,717 L682,717 L682,680 L683,680 Z" fill="#000102" fill-rule="nonzero"></path>
+            <rect id="Rectangle" stroke="#000102" fill="#457B9D" x="611.5" y="726.5" width="141" height="48"></rect>
+            <text id="调用startup_64()" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#FFFCFC">
+                <tspan x="644" y="755">调用startup_64()</tspan>
+            </text>
+            <path id="Line" d="M683,775 L683,812 L687,812 L682.5,821 L678,812 L682,812 L682,775 L683,775 Z" fill="#000102" fill-rule="nonzero"></path>
+            <rect id="Rectangle" stroke="#000102" fill="#457B9D" x="611.5" y="821.5" width="141" height="48"></rect>
+            <text id="调用startup_64()" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#FFFCFC">
+                <tspan x="644" y="850">调用startup_64()</tspan>
+            </text>
+            <path id="Line" d="M683,775 L683,812 L687,812 L682.5,821 L678,812 L682,812 L682,775 L683,775 Z" fill="#000102" fill-rule="nonzero"></path>
+            <rect id="Rectangle" stroke="#000102" fill="#457B9D" x="611.5" y="821.5" width="141" height="48"></rect>
+            <text id="调用extract_kernel()" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#FFFCFC">
+                <tspan x="628" y="850">调用extract_kernel()</tspan>
+            </text>
+            <text id="由三个文件组成:setup.bin、vm" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000102">
+                <tspan x="774" y="209">由三个文件组成:setup.bin、vmlinux.bin、build</tspan>
+            </text>
+            <text id="setup_header结构，将内核启动" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000102">
+                <tspan x="774" y="293">setup_header结构，将内核启动需要的信息，</tspan>
+                <tspan x="774" y="310">写入到内核中对应位置</tspan>
+            </text>
+            <text id="1.-拷贝header.S中setup_" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000102">
+                <tspan x="774" y="378">1. 拷贝header.S中setup_header结构，到boot_params【arch\x86\include\uapi\asm\bootparam.h】</tspan>
+                <tspan x="774" y="395">2. 调用BIOS中断，进行初始化设置，包括console、堆、CPU模式、内存、键盘、APM、显卡模式等</tspan>
+            </text>
+            <text id="初始化GDT、加载段描述符、建立MMU等" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000102">
+                <tspan x="774" y="660">初始化GDT、加载段描述符、建立MMU等</tspan>
+            </text>
+            <text id="初始化寄存器，初始化栈" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000102">
+                <tspan x="774" y="755">初始化寄存器，初始化栈</tspan>
+            </text>
+            <rect id="Rectangle" stroke="#000102" fill="#A8DADC" x="1192.5" y="96.5" width="112" height="35"></rect>
+            <text id="diskboot.img" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000102">
+                <tspan x="1212" y="117">diskboot.img</tspan>
+            </text>
+            <rect id="Rectangle" stroke="#000102" fill="#A8DADC" x="1192.5" y="130.5" width="112" height="35"></rect>
+            <text id="cdboot.img" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000102">
+                <tspan x="1212" y="151">cdboot.img</tspan>
+            </text>
+            <rect id="Rectangle" stroke="#000102" fill="#A8DADC" x="1192.5" y="159.5" width="112" height="35"></rect>
+            <text id="pxeboot.img" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000102">
+                <tspan x="1212" y="180">pxeboot.img</tspan>
+            </text>
+            <rect id="Rectangle" stroke="#000102" fill="#A8DADC" x="1192.5" y="193.5" width="112" height="35"></rect>
+            <rect id="Rectangle" stroke="#000102" fill="#A8DADC" x="1304.5" y="96.5" width="112" height="132"></rect>
+            <rect id="Rectangle" stroke="#000102" fill="#A8DADC" x="1415.5" y="96.5" width="112" height="132"></rect>
+            <text id="其他功能-模块" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000102">
+                <tspan x="1463" y="167">其他功能</tspan>
+                <tspan x="1463" y="184">模块</tspan>
+            </text>
+            <text id="kernel.img" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000102">
+                <tspan x="1331" y="162">kernel.img</tspan>
+            </text>
+            <text id="lnxboot.img" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000102">
+                <tspan x="1212" y="214">lnxboot.img</tspan>
+            </text>
+            <text id="加载CORE.IMG" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#FFFCFC">
+                <tspan x="641" y="118">加载CORE.IMG</tspan>
+            </text>
+            <text id="硬件工程师设计-CPU-时，硬性地规定在" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000102">
+                <tspan x="160" y="115">硬件工程师设计 CPU 时，硬性地规定在加电的瞬间，</tspan>
+                <tspan x="160" y="132">强制将 CS 寄存器的值设置为 0XF000，IP 寄存器的</tspan>
+                <tspan x="160" y="149">值设置为 0XFFF0</tspan>
+            </text>
+            <text id="1.-初始化CPU-2.-检查内存-3." font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000102">
+                <tspan x="160" y="298">1. 初始化CPU</tspan>
+                <tspan x="160" y="315">2. 检查内存</tspan>
+                <tspan x="160" y="332">3. 硬件设备检查</tspan>
+            </text>
+            <text id="加载CMOS设置的引导设备" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000102">
+                <tspan x="160" y="403">加载CMOS设置的引导设备</tspan>
+            </text>
+            <text id="加载硬盘的MRB(第一个扇区)" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000102">
+                <tspan x="160" y="503">加载硬盘的MRB(第一个扇区)</tspan>
+            </text>
+            <text id="位于硬盘的第一个扇区，很小.-所以它只是" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000102">
+                <tspan x="774" y="29">位于硬盘的第一个扇区，很小.</tspan>
+                <tspan x="774" y="46">所以它只是为了加载core.img</tspan>
+            </text>
+            <text id="1.-第一部分是boot，负责将core" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000102">
+                <tspan x="774" y="95">1. 第一部分是boot，负责将core.img全部内容</tspan>
+                <tspan x="774" y="112">   读入内存</tspan>
+                <tspan x="774" y="129">2. kernel.img会负责加载其他功能模块，加载后</tspan>
+                <tspan x="774" y="146">   就可以支持文件系统，不需要以扇区的方式</tspan>
+                <tspan x="774" y="163">   读取了</tspan>
+            </text>
+            <text id="Core.img文件结构" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000102">
+                <tspan x="1310" y="73">Core.img文件结构</tspan>
+            </text>
+            <text id="解压内核-解析ELF，处理重定向，-把" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal">
+                <tspan x="774" y="837" fill="#000102">解压内核</tspan>
+                <tspan x="822" y="837" fill="#FFFCFC"></tspan>
+                <tspan x="774" y="854" fill="#000102">解析ELF，处理重定向， 把 vmlinux 中的指令段、数据段、BSS 段，</tspan>
+                <tspan x="774" y="871" fill="#000102">根据 elf 中信息和要求放入特定的内存空间</tspan>
+            </text>
+            <path id="Line" d="M685,870 L685,907 L689,907 L684.5,916 L680,907 L684,907 L684,870 L685,870 Z" fill="#000102" fill-rule="nonzero"></path>
+            <rect id="Rectangle" stroke="#000102" fill="#457B9D" x="613.5" y="916.5" width="141" height="48"></rect>
+            <text id="调用startup_64()" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#FFFCFC">
+                <tspan x="646" y="945">调用startup_64()</tspan>
+            </text>
+            <path id="Line" d="M685,870 L685,907 L689,907 L684.5,916 L680,907 L684,907 L684,870 L685,870 Z" fill="#000102" fill-rule="nonzero"></path>
+            <rect id="Rectangle" stroke="#000102" fill="#457B9D" x="613.5" y="916.5" width="141" height="48"></rect>
+            <text id="调用secondary_-startup" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#FFFCFC">
+                <tspan x="640" y="936">调用secondary_</tspan>
+                <tspan x="640" y="953">startup_64()</tspan>
+            </text>
+            <path id="Line" d="M685,965 L685,1002 L689,1002 L684.5,1011 L680,1002 L684,1002 L684,965 L685,965 Z" fill="#000102" fill-rule="nonzero"></path>
+            <rect id="Rectangle" stroke="#000102" fill="#457B9D" x="613.5" y="1011.5" width="141" height="48"></rect>
+            <text id="调用startup_64()" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#FFFCFC">
+                <tspan x="646" y="1040">调用startup_64()</tspan>
+            </text>
+            <path id="Line" d="M685,965 L685,1002 L689,1002 L684.5,1011 L680,1002 L684,1002 L684,965 L685,965 Z" fill="#000102" fill-rule="nonzero"></path>
+            <rect id="Rectangle" stroke="#000102" fill="#457B9D" x="613.5" y="1011.5" width="141" height="48"></rect>
+            <text id="调用x86_64_start_-kern" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#FFFCFC">
+                <tspan x="637" y="1032">调用x86_64_start_</tspan>
+                <tspan x="637" y="1049">kernel()函数</tspan>
+            </text>
+            <path id="Line" d="M686,1060 L686,1097 L690,1097 L685.5,1106 L681,1097 L685,1097 L685,1060 L686,1060 Z" fill="#000102" fill-rule="nonzero"></path>
+            <rect id="Rectangle" stroke="#000102" fill="#457B9D" x="614.5" y="1106.5" width="141" height="48"></rect>
+            <path id="Line" d="M686,1060 L686,1097 L690,1097 L685.5,1106 L681,1097 L685,1097 L685,1060 L686,1060 Z" fill="#000102" fill-rule="nonzero"></path>
+            <rect id="Rectangle" stroke="#000102" fill="#457B9D" x="614.5" y="1106.5" width="141" height="48"></rect>
+            <text id="调用start_kernel()" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#FFFCFC">
+                <tspan x="637" y="1135">调用start_kernel()</tspan>
+            </text>
+            <path id="Line" d="M683,1155 L683,1192 L687,1192 L682.5,1201 L678,1192 L682,1192 L682,1155 L683,1155 Z" fill="#000102" fill-rule="nonzero"></path>
+            <rect id="Rectangle" stroke="#000102" fill="#457B9D" x="611.5" y="1201.5" width="141" height="48"></rect>
+            <path id="Line" d="M683,1155 L683,1192 L687,1192 L682.5,1201 L678,1192 L682,1192 L682,1155 L683,1155 Z" fill="#000102" fill-rule="nonzero"></path>
+            <rect id="Rectangle" stroke="#000102" fill="#457B9D" x="611.5" y="1201.5" width="141" height="48"></rect>
+            <text id="调用rest_init()" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#FFFCFC">
+                <tspan x="634" y="1230">调用rest_init()</tspan>
+            </text>
+            <path id="Line" d="M685,1250 L685,1287 L689,1287 L684.5,1296 L680,1287 L684,1287 L684,1250 L685,1250 Z" fill="#000102" fill-rule="nonzero"></path>
+            <rect id="Rectangle" stroke="#000102" fill="#457B9D" x="613.5" y="1296.5" width="141" height="48"></rect>
+            <path id="Line" d="M685,1250 L685,1287 L689,1287 L684.5,1296 L680,1287 L684,1287 L684,1250 L685,1250 Z" fill="#000102" fill-rule="nonzero"></path>
+            <rect id="Rectangle" stroke="#000102" fill="#457B9D" x="613.5" y="1296.5" width="141" height="48"></rect>
+            <text id="调用kernel_init()" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#FFFCFC">
+                <tspan x="636" y="1325">调用kernel_init()</tspan>
+            </text>
+            <text id="各类初始化工作，gdt、描述符等-跳转到" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000102">
+                <tspan x="776" y="937">各类初始化工作，gdt、描述符等</tspan>
+                <tspan x="776" y="954">跳转到initial_code，也就是x86_64_start_kernel</tspan>
+            </text>
+            <text id="各类初始化工作，清理bss段，清理页目录" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000102">
+                <tspan x="776" y="1034">各类初始化工作，清理bss段，清理页目录，复制引导信息等</tspan>
+            </text>
+            <text id="各类初始化，包括日志、陷阱们、工作队列等" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000102">
+                <tspan x="776" y="1139">各类初始化，包括日志、陷阱们、工作队列等</tspan>
+            </text>
+            <text id="kernel_thread，调用_do_" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000102">
+                <tspan x="776" y="1221">kernel_thread，调用_do_fork，创建了kernel_init进程，pid=1 . 是系统中所有其它用户进程的祖先</tspan>
+                <tspan x="776" y="1238">kernel_thread，调用_do_fork，创建了 kernel_thread进程，pid=2， 负责所有内核线程的调度和管理</tspan>
+            </text>
+            <text id="根据内核启动参数，调用run_init_" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000102">
+                <tspan x="774" y="1309">根据内核启动参数，调用run_init_process，创建对应进程</tspan>
+                <tspan x="774" y="1326">调用try_to_run_init_process函数，尝试以 /sbin/init、/etc/init、/bin/init、/bin/sh </tspan>
+                <tspan x="774" y="1343">这些文件为可执行文件建立init进程，只要其中之一成功就可以</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
