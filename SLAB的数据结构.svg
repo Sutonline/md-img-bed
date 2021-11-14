@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1062px" height="632px" viewBox="0 0 1062 632" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>SLAB的数据结构</title>
+    <g id="Linux的SLAB" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="SLAB的数据结构">
+            <rect id="Rectangle" stroke="#000000" fill="#FFFCFC" x="0.5" y="0.5" width="380" height="630"></rect>
+            <rect id="Rectangle" stroke="#000000" fill="#FFFCFC" x="443.5" y="1.5" width="618" height="630"></rect>
+            <text id="SLAB结构明细" font-family="PingFangSC-Semibold, PingFang SC" font-size="14" font-weight="500" fill="#000000">
+                <tspan x="108" y="15">SLAB结构明细</tspan>
+            </text>
+            <text id="SLAB结构总结" font-family="PingFangSC-Semibold, PingFang SC" font-size="14" font-weight="500" fill="#000000">
+                <tspan x="587" y="28">SLAB结构总结</tspan>
+            </text>
+            <g id="UML类图" transform="translate(70.000000, 423.000000)">
+                <rect id="Rectangle" stroke="#000000" fill="#FFFCFC" x="0.5" y="27.5" width="264" height="142"></rect>
+                <text id="1.-自旋锁-2.-存在空闲对象的kme" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000000">
+                    <tspan x="7" y="48">1. 自旋锁</tspan>
+                    <tspan x="7" y="65">2. 存在空闲对象的kmem_cache列表</tspan>
+                    <tspan x="7" y="82">3. 没有空闲对象的kmem_cache列表</tspan>
+                    <tspan x="7" y="99">4. 对象全部空闲的kmem_cache列表</tspan>
+                    <tspan x="7" y="116">5. 一共多少个kmem_cache结构</tspan>
+                    <tspan x="7" y="133">6. 空闲的kmem_cache结构个数</tspan>
+                    <tspan x="7" y="150">7. 空闲的对象个数</tspan>
+                </text>
+                <text id="SLAB管理头数组---kmem_cac" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000000">
+                    <tspan x="0" y="13">SLAB管理头数组 - kmem_cache_node</tspan>
+                </text>
+            </g>
+            <g id="UML类图" transform="translate(70.000000, 181.000000)">
+                <rect id="Rectangle" stroke="#000000" fill="#FFFCFC" x="0.5" y="27.5" width="264" height="168"></rect>
+                <text id="1.-array_cache-每个CPU" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000000">
+                    <tspan x="7" y="48">1. array_cache 每个CPU对应一个array_cache</tspan>
+                    <tspan x="7" y="65">2. 对象个数</tspan>
+                    <tspan x="7" y="82">3. 分配内向的order</tspan>
+                    <tspan x="7" y="99">4. 着色区大小</tspan>
+                    <tspan x="7" y="116">5. 着色区的开始偏移</tspan>
+                    <tspan x="7" y="133">6. 本SLAB的名字</tspan>
+                    <tspan x="7" y="150">7. 对象大小</tspan>
+                    <tspan x="7" y="167">8. kmem_cache_node - kmem_cache的上层</tspan>
+                    <tspan x="7" y="184">结构 </tspan>
+                </text>
+                <text id="SLAB管理头---kmem_cache" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000000">
+                    <tspan x="0" y="13">SLAB管理头 - kmem_cache</tspan>
+                </text>
+            </g>
+            <g id="UML类图" transform="translate(70.000000, 34.000000)">
+                <rect id="Rectangle" stroke="#000000" fill="#FFFCFC" x="0.5" y="27.5" width="177" height="82"></rect>
+                <text id="1.-可用个数-2.-限制个数-3.-对" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000000">
+                    <tspan x="7" y="51">1. 可用个数</tspan>
+                    <tspan x="7" y="68">2. 限制个数</tspan>
+                    <tspan x="7" y="85">3. 对象Entry数组</tspan>
+                </text>
+                <text id="CPU当前可用对象---array_ca" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000000">
+                    <tspan x="0" y="13">CPU当前可用对象 - array_cache</tspan>
+                </text>
+            </g>
+            <path id="Line" d="M70,88 L70,89 L20,89 L20,286.285 L61,286.285 L61,282.285156 L70,286.785156 L61,291.285156 L61,287.285 L19,287.285156 L19,88 L70,88 Z" fill="#000000" fill-rule="nonzero"></path>
+            <text id="包含..中" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000000">
+                <tspan x="7" y="188">包含..中</tspan>
+            </text>
+            <path id="Line-2" d="M70,337 L70,338 L20,338 L20,501.313 L61,501.313 L61,497.313328 L70,501.813328 L61,506.313328 L61,502.313 L19,502.313328 L19,337 L70,337 Z" fill="#000000" fill-rule="nonzero"></path>
+            <text id="被..管理" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000000">
+                <tspan x="7" y="406">被..管理</tspan>
+            </text>
+            <rect id="Rectangle" stroke="#000000" fill="#FFFCFC" x="534.5" y="56.5" width="229" height="126"></rect>
+            <rect id="Rectangle" stroke="#000000" fill="#FFFCFC" x="534.5" y="56.5" width="229" height="126"></rect>
+            <rect id="Rectangle" stroke="#000000" fill="#FFFCFC" x="534.5" y="216.5" width="229" height="114"></rect>
+            <text id="作用:-1.-管理kmem_cache" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000000">
+                <tspan x="546" y="277">作用:</tspan>
+                <tspan x="546" y="294">1. 管理kmem_cache</tspan>
+                <tspan x="546" y="311">2. 关联拥有slab链表的page</tspan>
+            </text>
+            <text id="物理内存页的Page结构。-作用:-1." font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000000">
+                <tspan x="546" y="103">物理内存页的Page结构。</tspan>
+                <tspan x="546" y="120">作用:</tspan>
+                <tspan x="546" y="137">1.  代表物理内存页</tspan>
+                <tspan x="546" y="154">2. 保存slab_list链表</tspan>
+            </text>
+            <text id="Page" font-family="PingFangSC-Semibold, PingFang SC" font-size="12" font-weight="500" fill="#000000">
+                <tspan x="620" y="69">Page</tspan>
+            </text>
+            <text id="kmem_cahce_node" font-family="PingFangSC-Semibold, PingFang SC" font-size="12" font-weight="500" fill="#000000">
+                <tspan x="588" y="237">kmem_cahce_node</tspan>
+            </text>
+            <rect id="Rectangle" stroke="#000000" fill="#FFFCFC" x="806.5" y="216.5" width="229" height="114"></rect>
+            <rect id="Rectangle" stroke="#000000" fill="#FFFCFC" x="807.5" y="365.5" width="229" height="114"></rect>
+            <text id="作用:-1.-记录系统全部的slab" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000000">
+                <tspan x="818" y="277">作用:</tspan>
+                <tspan x="818" y="294">1. 记录系统全部的slab</tspan>
+            </text>
+            <text id="是一个全局的二维数组，可以根据-类型和大" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000000">
+                <tspan x="818" y="438">是一个全局的二维数组，可以根据</tspan>
+                <tspan x="818" y="455">类型和大小，找到对应的kmem_cache</tspan>
+            </text>
+            <text id="slab_cache" font-family="PingFangSC-Semibold, PingFang SC" font-size="12" font-weight="500" fill="#000000">
+                <tspan x="882" y="237">slab_cache</tspan>
+            </text>
+            <text id="kmalloc_caches" font-family="PingFangSC-Semibold, PingFang SC" font-size="12" font-weight="500" fill="#000000">
+                <tspan x="882" y="385">kmalloc_caches</tspan>
+            </text>
+            <rect id="Rectangle" stroke="#000000" fill="#FFFCFC" x="534.5" y="364.5" width="229" height="114"></rect>
+            <text id="作用:-1.-管理各个CPU的cache" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000000">
+                <tspan x="546" y="425">作用:</tspan>
+                <tspan x="546" y="442">1. 管理各个CPU的cache</tspan>
+                <tspan x="546" y="459">2. 保存同等大小对象的信息</tspan>
+            </text>
+            <text id="kmem_cahce" font-family="PingFangSC-Semibold, PingFang SC" font-size="12" font-weight="500" fill="#000000">
+                <tspan x="605" y="385">kmem_cahce</tspan>
+            </text>
+            <rect id="Rectangle" stroke="#000000" fill="#FFFCFC" x="534.5" y="502.5" width="229" height="114"></rect>
+            <text id="作用:-1.-保存对象数组-2.-保存可" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000000">
+                <tspan x="546" y="563">作用:</tspan>
+                <tspan x="546" y="580">1. 保存对象数组</tspan>
+                <tspan x="546" y="597">2. 保存可用和限制数量</tspan>
+            </text>
+            <text id="array_cahce" font-family="PingFangSC-Semibold, PingFang SC" font-size="12" font-weight="500" fill="#000000">
+                <tspan x="605" y="523">array_cahce</tspan>
+            </text>
+            <path id="Line-3" d="M421,289 L435,296 L421,303 L421,297 L389,297 L389,295 L421,295 L421,289 Z" fill="#979797" fill-rule="nonzero"></path>
+            <path id="Line-3" d="M421,310 L435,317 L421,324 L421,318 L389,318 L389,316 L421,316 L421,310 Z" fill="#979797" fill-rule="nonzero"></path>
+            <path id="Line-4" d="M642.5,480 L647,489 L643,489 L643,502 L642,502 L642,489 L638,489 L642.5,480 Z" fill="#000000" fill-rule="nonzero"></path>
+            <path id="Line-4" d="M639.5,330 L644,339 L640,339 L640,365 L639,365 L639,339 L635,339 L639.5,330 Z" fill="#000000" fill-rule="nonzero"></path>
+            <path id="Line-4" d="M640,182 L640,207 L644,207 L639.5,216 L635,207 L639,207 L639,182 L640,182 Z" fill="#000000" fill-rule="nonzero"></path>
+            <path id="Line-4" d="M798,281 L807,285.5 L798,290 L798,286 L764,286 L764,285 L798,285 L798,281 Z" fill="#000000" fill-rule="nonzero"></path>
+            <path id="Line-4" d="M797,417 L806,421.5 L797,426 L797,422 L763,422 L763,421 L797,421 L797,417 Z" fill="#000000" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>
